@@ -1,0 +1,21 @@
+﻿@charset "utf-8";
+
+#nav {
+    text-align: center;
+    background-color: rgb(255,242,205);
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1%;
+    color: black;
+}
+#nav > ul > li {
+    font-size: 1.7vw;
+    display: inline-block;
+    margin-left:3%;
+    margin-right:3%;
+}
+#nav > ul > li > a{
+    color:black;
+}
+
